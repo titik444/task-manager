@@ -65,7 +65,7 @@ try {
 ?>
 ```
 ### 4. Run the Application
-Place index.php and config.php files in the root directory of your web server. Access the application through your web browser (e.g., http://localhost/task-manager/index.php).
+Place all files in the root directory of your web server. Access the application through your web browser (e.g., http://localhost/task-manager/index.php).
 
 ### 5. Additional Features
 - Add Task: Use the "Add Task" button to add new tasks.
