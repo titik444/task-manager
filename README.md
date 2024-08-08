@@ -2,7 +2,7 @@
 
 ## Description
 
-The Task Manager application allows users to manage their tasks by adding, updating, and deleting tasks using PHP and MySQL. The application includes search and filter features to facilitate task management.
+This is a simple task manager application built using PHP and MySQL. It allows you to add, update, and search for tasks.
 
 ## Features
 
